@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "3995934940",
+    "firebase_url": "https://danielfigueroa-parcial2.firebaseio.com",
+    "project_id": "danielfigueroa-parcial2",
+    "storage_bucket": "danielfigueroa-parcial2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3995934940:android:287311c8338da337e55419",
+        "android_client_info": {
+          "package_name": "com.example.danielfigueroa_parcial2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3995934940-1ebr3ecji0botqvkeked573pgmph31k2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMSGUu1tJztzbRmOo683PGvVW4I2jJPKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3995934940-1ebr3ecji0botqvkeked573pgmph31k2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
